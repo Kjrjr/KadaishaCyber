@@ -1,5 +1,5 @@
-# KadaishaCyber
-## IT 1025 Information Technology Concepts for Programmers, students are introduce to computer, networking and programming
+<h1>KadaishaCyber</h1>
+<p>IT 1025 Information Technology Concepts for Programmers, students are introduce to computer, networking and programming</p>
 
 ![banner png](https://github.com/Kjrjr/KadaishaCyber/assets/136286335/b70e7ed5-1a92-465b-8ea4-38799b464488)
 # Logo creation
