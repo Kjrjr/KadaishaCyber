@@ -2,7 +2,7 @@
 ## IT 1025 Information Technology Concepts for Programmers, students are introduce to computer, networking and programming
 
 ![banner png](https://github.com/Kjrjr/KadaishaCyber/assets/136286335/b70e7ed5-1a92-465b-8ea4-38799b464488)
-####### Logo creation
+# Logo creation
 
 ![Python](https://github.com/Kjrjr/KadaishaCyber/assets/136286335/7370352f-4992-4d3e-a169-79b8aecc2229)
 ### Hands-on Pratice Implementing and logic using Python
